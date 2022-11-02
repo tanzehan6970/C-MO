@@ -1,0 +1,55 @@
+==================== Replication 0 ====================
+Time: 2022-10-27 13:40:35.334804
+---> [ground truth] Matching Score: 2.8933
+---> [ground truth] R_precision: (top 1): 0.5151 (top 2): 0.7058 (top 3): 0.7989 
+---> [Comp_v6_KLD01] Matching Score: 3.2732
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.4640 (top 2): 0.6545 (top 3): 0.7528 
+Time: 2022-10-27 13:40:49.772070
+---> [ground truth] FID: 0.0016
+---> [Comp_v6_KLD01] FID: 1.0166
+Time: 2022-10-27 13:41:28.820361
+---> [ground truth] Diversity: 9.6627
+---> [Comp_v6_KLD01] Diversity: 9.4051
+Time: 2022-10-27 13:41:28.823539
+---> [Comp_v6_KLD01] Multimodality: 2.2665
+!!! DONE !!!
+==================== Replication 1 ====================
+Time: 2022-10-27 13:58:50.301321
+---> [ground truth] Matching Score: 2.9254
+---> [ground truth] R_precision: (top 1): 0.5142 (top 2): 0.6970 (top 3): 0.8011 
+---> [Comp_v6_KLD01] Matching Score: 3.3252
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.4679 (top 2): 0.6461 (top 3): 0.7455 
+Time: 2022-10-27 13:59:04.316937
+---> [ground truth] FID: 0.0017
+---> [Comp_v6_KLD01] FID: 1.0166
+Time: 2022-10-27 13:59:44.241566
+---> [ground truth] Diversity: 9.4083
+---> [Comp_v6_KLD01] Diversity: 9.0222
+Time: 2022-10-27 13:59:44.245174
+---> [Comp_v6_KLD01] Multimodality: 1.9087
+!!! DONE !!!
+==================== Replication 2 ====================
+Time: 2022-10-27 14:18:55.287314
+---> [ground truth] Matching Score: 2.9165
+---> [ground truth] R_precision: (top 1): 0.5127 (top 2): 0.7065 (top 3): 0.7966 
+---> [Comp_v6_KLD01] Matching Score: 3.3071
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.4541 (top 2): 0.6425 (top 3): 0.7405 
+Time: 2022-10-27 14:19:11.090449
+---> [ground truth] FID: 0.0018
+---> [Comp_v6_KLD01] FID: 1.0813
+Time: 2022-10-27 14:19:56.136685
+---> [ground truth] Diversity: 9.6011
+---> [Comp_v6_KLD01] Diversity: 9.2560
+Time: 2022-10-27 14:19:56.140293
+---> [Comp_v6_KLD01] Multimodality: 2.2006
+!!! DONE !!!
+==================== Replication 3 ====================
+Time: 2022-10-27 14:39:07.967904
+---> [ground truth] Matching Score: 2.9180
+---> [ground truth] R_precision: (top 1): 0.5026 (top 2): 0.6978 (top 3): 0.7920 
+---> [Comp_v6_KLD01] Matching Score: 3.3286
+---> [Comp_v6_KLD01] R_precision: (top 1): 0.4491 (top 2): 0.6351 (top 3): 0.7364 
+Time: 2022-10-27 14:39:23.623114
+---> [ground truth] FID: 0.0016
+---> [Comp_v6_KLD01] FID: 1.1362
+Time: 2022-10-27 14:40:05.714071
