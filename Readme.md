@@ -1,4 +1,4 @@
-#RETRIEVAL-BASED NATURAL 3D HUMAN MOTION GENERATION
+# RETRIEVAL-BASED NATURAL 3D HUMAN MOTION GENERATION
 In this paper, we investigate the emerging problem of generating 3D human motions based on natural language descriptions, especially
 retrieval motions.
 Given a textual description for example, *"the figure rises from a lying position and walks in a counterclockwise circle, and then lays back down the ground"*, our approach generates a diverse set of 3d human motions that are faithful to the provided text.
